@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 <!-------------------- v4.1.0.10 start -------------------->
 
-## HyperCloudSecretWatcher_4.1.0.10 (2020년 09월 23일 수 오후  4:47:01)
+## HyperCloudSecretWatcher_4.1.0.10 (2020년 09월 23일 수 오후  4:47:01)  
 
 ### Added
 
